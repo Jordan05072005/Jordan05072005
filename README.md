@@ -21,13 +21,15 @@
 
 ## Github Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&layout=compact&theme=tokyonight)
 
 <img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
 
 ## Social
 <p align="center">
 <a href="https://instagram.com/jordan050705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordan050705" height="30" width="40" /></a>
+<a href="https://discord.com/jordan050705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordan050705" height="30" width="40" /></a>
+<a href="https://instagram.com/jordan0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jordan0507" height="30" width="40" /></a>
 
 
 
