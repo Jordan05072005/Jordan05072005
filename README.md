@@ -1,4 +1,4 @@
-9# **Hello you, welcome to my Github :)**  
+# **Hello you, welcome to my Github :)**  
 <div align="center">
 
 <br/>  
@@ -19,13 +19,9 @@
 
 <br/>  
 
-<br/>  
-
-
 ## Github Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jordan05072005&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
