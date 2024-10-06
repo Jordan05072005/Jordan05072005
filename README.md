@@ -4,7 +4,7 @@
 
 <br/>  
 
-## **Languages ​​Known / Learned**  
+## **Languages ​​Used / Learned**  
 
 <p align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
