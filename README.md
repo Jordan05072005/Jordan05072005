@@ -15,7 +15,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height=90" />
 <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="90" />
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="90" /><\p>
-</div>
+
 
 <br/>  
 
@@ -23,5 +23,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=tokyonight)
 
+<img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
+
+## Social
+<p align="center">
+<a href="(https://instagram.com/jordan050705)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2564gamer" height="30" width="40" /></a>
+
+
 
 <br/>  
+</div>
