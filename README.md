@@ -24,7 +24,7 @@
 
 ## Github Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jordan05072005&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
