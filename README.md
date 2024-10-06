@@ -23,8 +23,8 @@
 
 
 ## Github Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jordan05072005&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
