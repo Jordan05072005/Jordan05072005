@@ -19,37 +19,12 @@
 
 <br/>  
 
-
-## Connect with me  
-  
-
 <br/>  
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan05072005&hide_border=true&layout=compact" align="right" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api username = jordan5072005 &theme = radical)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jordan05072005&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Jordan05072005&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
