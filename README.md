@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jguaglio&weight=900&size=30&duration=3500&pause=400&color=7E00FF&background=2156FF00&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+Github+%3A);I'm+student+42;+I+am+a+job+seeker..;Hello+you+%5E%5E" alt="Typing SVG" /></a>
 
 ## **Languages ​​Used / Learned**  
+<pre style="font-family: 'Consolas', monospace;">Mon titre en Consolas</pre>
 
 <p align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
