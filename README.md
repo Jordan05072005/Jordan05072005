@@ -24,7 +24,7 @@
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=10&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=8&theme=midnight-purple)
 
 
 <img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
