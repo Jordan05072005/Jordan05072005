@@ -1,17 +1,7 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jguaglio&weight=200&size=22&duration=3500&pause=400&color=6200C6&background=2156FF00&center=true&vCenter=true&random=true&width=435&lines=Hello+you%2C+welcome+to+my+Github+%3A);
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jguaglio&weight=200&size=22&duration=3500&pause=400&color=6200C6&background=2156FF00&center=true&vCenter=true&random=true&width=435&lines=Hello+you%2C+welcome+to+my+Github+%3A);I'm+student+42;+I+am+a+job+seeker..;%3C3)](https://git.io/typing-svg)
 <br/>  
-
-  @keyframes glitch {
-    0% { text-shadow: 2px 0 red, -2px 0 blue; }
-    20% { text-shadow: -2px 0 red, 2px 0 blue; }
-    40% { text-shadow: 2px 0 red, -2px 0 blue; }
-    60% { text-shadow: -2px 0 red, 2px 0 blue; }
-    80% { text-shadow: 2px 0 red, -2px 0 blue; }
-    100% { text-shadow: -2px 0 red, 2px 0 blue; }
-  }
-</style>
 
 ## **Languages ​​Used / Learned**  
 
