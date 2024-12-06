@@ -5,7 +5,7 @@
 ## **Languages ​​Used / Learned**  
 
 
-# Titre en Microsoft Consolas
+# **Titre en Microsoft Consolas**
 
 <pre style="font-family: 'Consolas', monospace;">Mon titre en Consolas</pre>
 
