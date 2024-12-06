@@ -23,13 +23,11 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=codeSTACKr)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=aura)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=one_dark_pro)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=one_dark_pro)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=one_dark_pro)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=10&theme=radical)
