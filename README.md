@@ -29,6 +29,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
 
+<br/>
 <br/>  
 
 <p align="center">
