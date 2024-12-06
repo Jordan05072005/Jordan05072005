@@ -41,8 +41,9 @@
 <br/>  
 
 <p align="center">
-<a href="https://instagram.com/jordan050705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordan050705" height="30" width="40" /></a>
+<a href="https://linkedin.com/jordan guaglio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan Guaglio" height="30" width="40" /></a>
 <a href="https://discord.gg/jordan0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jordan0507" height="30" width="40" /></a>
-<a href="https://linkedin.com/jordan0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan Guaglio" height="30" width="40" /></a></p>
+<a href="https://instagram.com/jordan050705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordan050705" height="30" width="40" /></a>
+</p>
 
 </div>
