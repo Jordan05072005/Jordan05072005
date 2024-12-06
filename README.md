@@ -23,7 +23,7 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan05072005&show_icons=true&theme=radical) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasRibalta&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=10&theme=radical)
 
