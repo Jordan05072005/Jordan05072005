@@ -4,6 +4,23 @@
 
 <br/>  
 
+<h1 style="font-family: 'Courier New', Courier, monospace;">
+  <span style="display: inline-block; animation: glitch 1s infinite;">
+    Titre Buggué
+  </span>
+</h1>
+
+<style>
+  @keyframes glitch {
+    0% { text-shadow: 2px 0 red, -2px 0 blue; }
+    20% { text-shadow: -2px 0 red, 2px 0 blue; }
+    40% { text-shadow: 2px 0 red, -2px 0 blue; }
+    60% { text-shadow: -2px 0 red, 2px 0 blue; }
+    80% { text-shadow: 2px 0 red, -2px 0 blue; }
+    100% { text-shadow: -2px 0 red, 2px 0 blue; }
+  }
+</style>
+
 ## **Languages ​​Used / Learned**  
 
 <p align="center">  
