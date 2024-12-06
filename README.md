@@ -5,9 +5,9 @@
 ## **Languages ​​Used / Learned**  
 
 
-# **Titre en Microsoft Consolas**
+# Titre en Microsoft Consolas
 
-<pre style="font-family: 'Consolas', monospace;">Mon titre en Consolas</pre>
+# `Mon Titre de README`
 
 <p align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
