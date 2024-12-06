@@ -9,7 +9,6 @@
     Titre Buggué
   </span>
 </h1>
-
 <style>
   @keyframes glitch {
     0% { text-shadow: 2px 0 red, -2px 0 blue; }
