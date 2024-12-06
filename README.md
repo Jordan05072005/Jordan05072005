@@ -2,8 +2,6 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jguaglio&weight=900&size=30&duration=3500&pause=400&color=7E00FF&background=2156FF00&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+Github+%3A);I'm+student+42;+I+am+a+job+seeker..;Hello+you+%5E%5E" alt="Typing SVG" /></a>
 
-# `Languages ​​Used / Learned`
-
 # <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Languages ​​Used / Learned</span>
 
 
@@ -20,14 +18,16 @@
 
 <br/>  
 
-## Featured Projects
+# <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Featured Projects</span>
+
 
 <a href="https://github.com/jordan05072005/Piscine-42" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)</a>
 <a href="https://github.com/jordan05072005/Printf" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Printf&theme=aura)</a>
 <a href="https://github.com/jordan05072005/Nuit-Du-Code-2023" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)</a>
 <a href="https://github.com/jordan05072005/Nuit-de-l-info-2024" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)</a>
 
-## Github Stats  
+# <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Github Stats</span>
+
 
 <br/>
 
