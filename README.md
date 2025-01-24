@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/jordan05072005/Piscine-42" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)</a>
-<a href="https://github.com/jordan05072005/Printf" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Printf&theme=aura)</a>
+<a href="https://github.com/jordan05072005/Minishell" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Minishell&theme=aura)</a>
 <a href="https://github.com/jordan05072005/Nuit-Du-Code-2023" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)</a>
 <a href="https://github.com/jordan05072005/Nuit-de-l-info-2024" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)</a>
 
