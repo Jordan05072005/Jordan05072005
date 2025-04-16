@@ -10,14 +10,13 @@
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="80" />
 <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter" height="80" />
-
-
-
-<img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="80" />
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" /></p>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" />
+<img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" height="80" />
+  
+</p>
 
 <br/>  
 
