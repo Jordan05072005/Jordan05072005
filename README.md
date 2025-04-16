@@ -9,7 +9,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="80" />
-<img src="https://raw.githubusercontent.com/flutter/devtools/master/images/flutter-logo.png" alt="Flutter" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo.svg" alt="Flutter" height="80" />
+
 <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />
 <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="80" />
