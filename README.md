@@ -24,7 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)](https://github.com/jordan05072005/Piscine-42)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Minishell&theme=aura)](https://github.com/jordan05072005/Minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Transcendance&theme=aura)](https://github.com/jordan05072005/Transcendance)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)](https://github.com/jordan05072005/Nuit-Du-Code-2023)
 
