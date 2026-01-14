@@ -22,10 +22,14 @@
 # <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Featured Projects</span>
 
 
-<a href="https://github.com/jordan05072005/Piscine-42" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)</a>
-<a href="https://github.com/jordan05072005/Minishell" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Minishell&theme=aura)</a>
-<a href="https://github.com/jordan05072005/Nuit-Du-Code-2023" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)</a>
-<a href="https://github.com/jordan05072005/Nuit-de-l-info-2024" target="blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)](https://github.com/jordan05072005/Piscine-42)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Minishell&theme=aura)](https://github.com/jordan05072005/Minishell)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)](https://github.com/jordan05072005/Nuit-Du-Code-2023)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)](https://github.com/jordan05072005/Nuit-de-l-info-2024)
+
 
 # <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Github Stats</span>
 
