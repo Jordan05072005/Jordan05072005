@@ -1,39 +1,82 @@
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jguaglio&weight=900&size=30&duration=3500&pause=400&color=7E00FF&background=2156FF00&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+Github+%3A);I'm+student+42;+I+am+a+job+seeker..;Hello+you+%5E%5E" alt="Typing SVG" /></a>
 
-# <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Languages Used / Learned</span>
-<p align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
-<img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="80" />
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" />
-<img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" height="80" />
-</p>
-<br/>  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7E00FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jordan;42+School+Student;Full-Stack+Developer;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Featured Projects</span>
-
-[![Piscine-42](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)](https://github.com/jordan05072005/Piscine-42)
-[![Transcendance](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Transcendance&theme=aura)](https://github.com/jordan05072005/Transcendance)
-[![Nuit-Du-Code-2023](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)](https://github.com/jordan05072005/Nuit-Du-Code-2023)
-[![Nuit-de-l-info-2024](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)](https://github.com/jordan05072005/Nuit-de-l-info-2024)
-
-# <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Github Stats</span>
 <br/>
 
-![GitHub Stats](https://github-readme-stats-vercel-sooty.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats-vercel-sooty.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=8&theme=midnight-purple)
-<img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
+<img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile+Views&color=7E00FF&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 <br/>
-<br/>  
+
+## 🚀 About me
+
+I'm a **42 School** student passionate about building things end to end — from backend architecture to polished frontend interfaces. Currently doing my apprenticeship at **Cohelio** as a full-stack developer.
+
+- 🔭 Currently working on full-stack TypeScript projects (NestJS / React / React Native)
+- 🌱 Always learning — currently diving deeper into server administration, database management, security, and DevOps (CI/CD, Docker, Kubernetes)
+- 🏢 Apprenticeship at Cohelio, alongside my studies at 42
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://linkedin.com/in/jordan guaglio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan Guaglio" height="30" width="40" /></a>
-<a href="https://discord.gg/jordan0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jordan0507" height="30" width="40" /></a>
-<a href="https://instagram.com/jordan050705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jordan050705" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,nestjs,postgres,react,ts,nodejs,docker&theme=dark" alt="Tech stack" />
 </p>
+
+<br/>
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jordan05072005/Piscine-42">
+    <img src="https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura&hide_border=true" alt="Piscine-42" />
+  </a>
+  <a href="https://github.com/jordan05072005/Transcendance">
+    <img src="https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Transcendance&theme=aura&hide_border=true" alt="Transcendance" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jordan05072005/Nuit-Du-Code-2023">
+    <img src="https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura&hide_border=true" alt="Nuit-Du-Code-2023" />
+  </a>
+  <a href="https://github.com/jordan05072005/Nuit-de-l-info-2024">
+    <img src="https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura&hide_border=true" alt="Nuit-de-l-info-2024" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-vercel-sooty.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-vercel-sooty.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<br/>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jordan-guaglio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/jordan0507" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/jordan050705" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E00FF&height=100&section=footer" />
 </div>
