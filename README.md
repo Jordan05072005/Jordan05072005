@@ -17,16 +17,16 @@
 
 # <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Featured Projects</span>
 
-[![Piscine-42](https://github-readme-stats-eight-snowy.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)](https://github.com/jordan05072005/Piscine-42)
-[![Transcendance](https://github-readme-stats-eight-snowy.vercel.app/api/pin/?username=jordan05072005&repo=Transcendance&theme=aura)](https://github.com/jordan05072005/Transcendance)
-[![Nuit-Du-Code-2023](https://github-readme-stats-eight-snowy.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)](https://github.com/jordan05072005/Nuit-Du-Code-2023)
-[![Nuit-de-l-info-2024](https://github-readme-stats-eight-snowy.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)](https://github.com/jordan05072005/Nuit-de-l-info-2024)
+[![Piscine-42](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Piscine-42&theme=aura)](https://github.com/jordan05072005/Piscine-42)
+[![Transcendance](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Transcendance&theme=aura)](https://github.com/jordan05072005/Transcendance)
+[![Nuit-Du-Code-2023](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-Du-Code-2023&theme=aura)](https://github.com/jordan05072005/Nuit-Du-Code-2023)
+[![Nuit-de-l-info-2024](https://github-readme-stats-vercel-sooty.vercel.app/api/pin/?username=jordan05072005&repo=Nuit-de-l-info-2024&theme=aura)](https://github.com/jordan05072005/Nuit-de-l-info-2024)
 
 # <span style="font-family: 'Courier New', monospace; background-color: #282c34; color: #ffffff; padding: 5px;">Github Stats</span>
 <br/>
 
-![GitHub Stats](https://github-readme-stats-eight-snowy.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats-eight-snowy.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=8&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats-vercel-sooty.vercel.app/api?username=jordan05072005&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats-vercel-sooty.vercel.app/api/top-langs?username=jordan05072005&layout=compact&langs_count=8&theme=midnight-purple)
 <img src="https://komarev.com/ghpvc/?username=jordan05072005&label=Profile%20views&color=0e75b6&style=flat" alt="jordan05072005" />
 <br/>
 <br/>  
